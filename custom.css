@@ -1,0 +1,25 @@
+/*Some css fixes to use night theme with IPython slides*/
+body {
+background-color: white;
+font-family: "Georgia";
+}
+.reveal p {
+color: #767676;
+font-family: "Georgia";
+}
+.reveal ul, ol {
+color: #767676;
+font-family: "Georgia";
+}
+div.output_area pre {
+color: #767676;
+font-family: "Georgia";
+}
+div.output_stderr {
+background: #F00;
+font-family: "Georgia";
+}
+.reveal table th, .reveal table td {
+color: #767676;
+font-family: "Georgia";
+}
